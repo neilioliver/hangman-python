@@ -1,2 +1,2 @@
-# python
-Collection of Python Scripts/Projects
+# Hangman
+A simple hangman script that can be run in an IDE
